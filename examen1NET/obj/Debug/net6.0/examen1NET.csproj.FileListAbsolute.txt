@@ -1,0 +1,15 @@
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\examen1NET.exe
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\examen1NET.deps.json
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\examen1NET.runtimeconfig.json
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\examen1NET.dll
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\ref\examen1NET.dll
+C:\Users\Invitado\Documents\examen1NET\bin\Debug\net6.0\examen1NET.pdb
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.csproj.AssemblyReference.cache
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.AssemblyInfoInputs.cache
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.AssemblyInfo.cs
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.csproj.CoreCompileInputs.cache
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.dll
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\ref\examen1NET.dll
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.pdb
+C:\Users\Invitado\Documents\examen1NET\obj\Debug\net6.0\examen1NET.genruntimeconfig.cache
